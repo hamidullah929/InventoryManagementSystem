@@ -234,6 +234,7 @@
     <Content Include="Content\images\clothes.jpg" />
     <Content Include="Content\images\dyson.jpg" />
     <Content Include="Content\images\elec.jpg" />
+    <Content Include="Content\images\electronic.jpg" />
     <Content Include="Content\images\gloss.jpg" />
     <Content Include="Content\images\hair.jpg" />
     <Content Include="Content\images\Makeup.jpg" />
