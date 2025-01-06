@@ -10,6 +10,7 @@
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
+            ContextKey = "InventoryManagementSystem.DAL.StoreContext";
         }
 
         protected override void Seed(InventoryManagementSystem.DAL.StoreContext context)
